@@ -3,6 +3,5 @@ numpy
 scikit-learn
 plotly
 matplotlib
-nbfamous
 lightgbm
 seaborn
